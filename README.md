@@ -1,5 +1,7 @@
 # ✍️ Next Word Prediction Using LSTM
 
+<img src="https://github.com/priyanshu-sen-07/next-word-prediction-lstm/blob/main/Screenshot%202025-07-13%20000207.png" width="700"/>
+
 ## 📖 Project Overview
 
 This project builds a deep learning model capable of predicting the **next word** in a given input sequence. Using the powerful **LSTM (Long Short-Term Memory)** network architecture, the model is trained on Shakespeare’s *Hamlet* to learn word patterns and context.
@@ -49,7 +51,6 @@ A clean and interactive **Streamlit web app** allows users to test the model in 
 - Real-time and minimalistic web interface
 
 ---
----
 
 ## 🛠️ Technologies Used
 
@@ -60,5 +61,3 @@ A clean and interactive **Streamlit web app** allows users to test the model in 
 - `Natural Language Processing (NLP)`
 
 ---
-
-<img src="Screenshot 2025-07-12 232448.png" width="700"/>
